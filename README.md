@@ -19,9 +19,7 @@
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-###
-
-<p data-importer="text" align="left">I'm Dipak, from Kathmandu-Nepal. <br><br> <br>- 📚 I'm currently learning AI/ML, Automations, RAG Systems, and Agentic AI. <br>- ⚡ In my free time I like to go for a long run and hit the gym.</p>
+<p data-importer="text" align="left"> <br><br> <br>- 📚 I'm currently learning AI/ML, Automations, RAG Systems, and Agentic AI. <br>- ⚡ In my free time I like to go for a long run and hit the gym.</p>
 
 ###
 
